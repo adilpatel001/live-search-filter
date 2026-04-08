@@ -8,6 +8,7 @@ A modern React app that performs debounced live search on 1000+ entries with hig
 - Controlled input
 - Highlight matched text
 - Modern UI
+- used in modern applications
 
 ## 🛠 Tech Stack
 - React
